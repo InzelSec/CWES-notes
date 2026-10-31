@@ -2,8 +2,6 @@
 
 Notas de Web Hacking (HTB CWES), organizadas por tópico.
 
-## Referências
-
 - [https://github.com/swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - https://book.hacktricks.wiki/en/pentesting-web/web-vulnerabilities-methodology.html
 
