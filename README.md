@@ -1,6 +1,6 @@
 # Web Hacking (CWES)
 
-<img width="1012" height="692" alt="image" src="https://github.com/user-attachments/assets/03d2b8b7-82e9-48ba-8ca6-e1fab1f61233" />
+<img width="812" height="552" alt="image" src="https://github.com/user-attachments/assets/03d2b8b7-82e9-48ba-8ca6-e1fab1f61233" />
 
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [HackTricks](https://book.hacktricks.wiki/en/pentesting-web/web-vulnerabilities-methodology.html)
