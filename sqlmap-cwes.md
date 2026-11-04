@@ -20,7 +20,7 @@
     - Podemos tambem pesquisar por alguma palavra especifica e especificando se eh uma coluna ou tabela que estamos buscando: **`--search -T user`**, **`--search -C pass`**
 - **Bypass de Proteções Web**
     
-    ### 🔐 **Anti-CSRF Token**
+    ### **Anti-CSRF Token**
     
     - CSRF Tokens evitam automação forçando o uso de um token válido em requisições.
     - O SQLMap consegue lidar com isso usando:
@@ -36,21 +36,21 @@
     
     ---
     
-    ### 🔄 **Valores Únicos Requeridos**
+    ### **Valores Únicos Requeridos**
     
     - Algumas apps exigem valores únicos por requisição para bloquear automações.
     - Use `-randomize=param` para gerar um valor diferente automaticamente para esse parâmetro.
     
     ---
     
-    ### 🧮 **Parâmetros Calculados**
+    ### **Parâmetros Calculados**
     
     - Parâmetros podem depender de valores derivados de outros (ex: `h=MD5(id)`).
     - Use `-eval="código Python"` para gerar dinamicamente o valor antes do envio.
     
     ---
     
-    ### 🕵️ **Esconder o IP**
+    ### **Esconder o IP**
     
     - Use proxy com `-proxy="socks4://ip:porta"` ou `-proxy-file=lista.txt`.
     - Para usar a rede Tor:
@@ -59,7 +59,7 @@
     
     ---
     
-    ### 🧱 **Detecção e Bypass de WAF (Web Application Firewall)**
+    ### **Detecção e Bypass de WAF (Web Application Firewall)**
     
     - SQLMap detecta WAFs automaticamente com payloads de teste.
     - Para evitar barulho: use `-skip-waf`
@@ -67,14 +67,14 @@
     
     ---
     
-    ### 🎭 **User-Agent Bloqueado**
+    ### **User-Agent Bloqueado**
     
     - Se a aplicação bloquear o user-agent do SQLMap:
         - Use `-random-agent` para simular browsers reais.
     
     ---
     
-    ### 🧪 **Tamper Scripts (Evasão de Proteções)**
+    ### **Tamper Scripts (Evasão de Proteções)**
     
     - Scripts que alteram a sintaxe do payload para escapar de filtros.
     - Exemplo de script:
