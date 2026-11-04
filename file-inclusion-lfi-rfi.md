@@ -2,7 +2,7 @@
 
 https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/File%20Inclusion
 
-CLICAR EM SOURCE-CODE DAS IMAGENS E VER COMO ELA ESTA SENDO PASSADA! pode ser que seja algo no html como: **`/picture/?file=imagem.jpg`**! clicamos e testamos (encodar em URL e tentar bypass mesmo se der erro).
+CLICAR EM SOURCE-CODE DAS IMAGENs e ver como estão sendo passadas! pode ser que seja algo no html como: **`/picture/?file=imagem.jpg`**! clicamos e testamos (encodar em URL e tentar bypass mesmo se der erro).
 
 ---
 
