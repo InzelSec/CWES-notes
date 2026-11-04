@@ -73,7 +73,7 @@ Testar em todos lugares (URL parametros inserindo strings erradas e vendo se ref
             
     - **Hijacking (Blind XSS) →** usar a vulnerabilidade para quando o código é executado em uma página que você **não tem acesso** (ex: painel de admin, no caso do Lab fazemos em uma sessao de comentario, pois apesar de nao ser full Blind, ele diz que passa por uma verificacao back-end pelo admin).
         
-        ### ✅ **1. Subir servidor na nossa maquina:**
+        ### **1. Subir servidor na nossa maquina:**
         
         ```bash
         mkdir /tmp/tmpserver
@@ -88,7 +88,7 @@ Testar em todos lugares (URL parametros inserindo strings erradas e vendo se ref
         
         ---
         
-        ### ✅ **2. Crie `script.js`**
+        ### **2. Crie `script.js`**
         
         ```bash
         nano script.js
@@ -100,7 +100,7 @@ Testar em todos lugares (URL parametros inserindo strings erradas e vendo se ref
         
         ---
         
-        ### ✅ **3. Crie `index.php`**
+        ### **3. Crie `index.php`**
         
         ```bash
         nano index.php
@@ -130,7 +130,7 @@ Testar em todos lugares (URL parametros inserindo strings erradas e vendo se ref
         
         ---
         
-        ### ✅ **5. Esperar o admin abrir a página**
+        ### **5. Esperar o admin abrir a página**
         
         Assim que ele visualizar os dados:
         
