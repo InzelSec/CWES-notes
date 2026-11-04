@@ -1,9 +1,12 @@
 # Web Hacking (CWES)
 
-Notas de Web Hacking (HTB CWES), organizadas por tópico.
+<img width="1012" height="692" alt="image" src="https://github.com/user-attachments/assets/03d2b8b7-82e9-48ba-8ca6-e1fab1f61233" />
 
-- [https://github.com/swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
-- https://book.hacktricks.wiki/en/pentesting-web/web-vulnerabilities-methodology.html
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+- [HackTricks](https://book.hacktricks.wiki/en/pentesting-web/web-vulnerabilities-methodology.html)
+- [CWES Cheatsheet](https://nalchhen.com/posts/cwes-cheatsheet/)
+- [CWES Review & Prep](https://nalchhen.com/posts/cwes-review/)
+- [HTB Prep Track](https://app.hackthebox.com/tracks/87)
 
 ## Índice
 
